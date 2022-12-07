@@ -1,5 +1,5 @@
-# Hi Dev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
+# Hi Dev
+<p align="left">
 <a href="https://linkedin.com/in/santoshmofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
 </p>
 
