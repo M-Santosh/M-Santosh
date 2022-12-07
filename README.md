@@ -5,7 +5,6 @@
 
 <img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif" width="600" height="400">
 
----
 ### 🐱My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=M-Santosh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Santosh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/santoshsandhu/github-readme-stats)
